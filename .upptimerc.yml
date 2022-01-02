@@ -8,12 +8,12 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  #cname: demo.upptime.js.org
   baseUrl: /uptime
   logoUrl: https://www.exbitron.com/kb/static/exbitron-icon.png
   name: Exbitron
-  introTitle: "Exbitron **Uptime**"
-  introMessage: "Exbitron Uptime"
+  introTitle: "Exbitron **Uptime** Status"
+  introMessage: ""
   navbar:
     - title: Status
       href: /
