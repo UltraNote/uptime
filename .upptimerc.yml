@@ -2,9 +2,11 @@ owner: exbitron
 repo: uptime
 
 sites:
-  - name: Exbitron
+  - name: Exbitron.com
     url: https://www.exbitron.com
-
+  - name: Exbitron.digital
+    url: https://exbitron.digital
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
