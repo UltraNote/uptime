@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 253,
-    "timeDay": 323,
-    "timeWeek": 265,
-    "timeMonth": 253,
-    "timeYear": 253,
+    "time": 256,
+    "timeDay": 302,
+    "timeWeek": 280,
+    "timeMonth": 256,
+    "timeYear": 256,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/exbitron.digital",
     "slug": "exbitron-digital",
     "status": "down",
-    "uptime": "94.04%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.04%",
-    "uptimeYear": "94.04%",
-    "time": 82,
-    "timeDay": 65,
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 81,
+    "timeDay": 63,
     "timeWeek": 92,
-    "timeMonth": 82,
-    "timeYear": 82,
-    "dailyMinutesDown": {
-      "2022-01-16": 819,
-      "2022-01-15": 410
-    }
+    "timeMonth": 81,
+    "timeYear": 81,
+    "dailyMinutesDown": {}
   }
 ]
