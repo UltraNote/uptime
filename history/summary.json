@@ -4,18 +4,20 @@
     "url": "https://www.exbitron.com",
     "icon": "https://favicons.githubusercontent.com/www.exbitron.com",
     "slug": "exbitron-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 267,
-    "timeDay": 280,
-    "timeWeek": 293,
-    "timeMonth": 266,
-    "timeYear": 267,
-    "dailyMinutesDown": {}
+    "time": 266,
+    "timeDay": 204,
+    "timeWeek": 272,
+    "timeMonth": 262,
+    "timeYear": 266,
+    "dailyMinutesDown": {
+      "2022-06-16": 0
+    }
   },
   {
     "name": "Exbitron.digital",
