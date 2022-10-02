@@ -2,7 +2,7 @@
   {
     "name": "Exbitron.com",
     "url": "https://www.exbitron.com",
-    "icon": "https://favicons.githubusercontent.com/www.exbitron.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.exbitron.com.ico",
     "slug": "exbitron-com",
     "status": "up",
     "uptime": "99.95%",
@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 277,
-    "timeDay": 768,
-    "timeWeek": 393,
-    "timeMonth": 315,
+    "timeDay": 340,
+    "timeWeek": 356,
+    "timeMonth": 319,
     "timeYear": 277,
     "dailyMinutesDown": {
       "2022-06-30": 116,
@@ -24,7 +24,7 @@
   {
     "name": "Exbitron.digital",
     "url": "https://exbitron.digital",
-    "icon": "https://favicons.githubusercontent.com/exbitron.digital",
+    "icon": "https://icons.duckduckgo.com/ip3/exbitron.digital.ico",
     "slug": "exbitron-digital",
     "status": "down",
     "uptime": "100.00%",
@@ -32,11 +32,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 118,
-    "timeDay": 142,
-    "timeWeek": 136,
-    "timeMonth": 115,
-    "timeYear": 118,
+    "time": 119,
+    "timeDay": 250,
+    "timeWeek": 156,
+    "timeMonth": 122,
+    "timeYear": 119,
     "dailyMinutesDown": {}
   }
 ]
